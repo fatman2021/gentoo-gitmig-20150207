@@ -1,6 +1,9 @@
-MD5 b181742f47152bdab8e7c309c3571aae ChangeLog 7658
-MD5 2d0b7b311a2ee2258d461ad6e330525e amanda-2.4.5.ebuild 12186
-MD5 28ec5d1330bf7e1bcf797f52de490267 amanda-2.4.5_p1.ebuild 12528
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+MD5 31b6a74e2ccb34ba7c37d2a1d11aafc2 ChangeLog 7810
+MD5 c107ecfb4a281a8f76d39389b8d5a873 amanda-2.4.5.ebuild 12181
+MD5 f28eb5f982b698408385a19da8d5748e amanda-2.4.5_p1.ebuild 12522
 MD5 1526ee8fda3df565caa85063636c2268 files/amanda-2.4.5-4tb-holding-disk.patch 457
 MD5 715b6aaa38cdf51b60a25581a530e64c files/amanda-2.4.5-amverify-loop-detect.patch 1108
 MD5 6020426a696d9bbec9244067debbba4d files/amanda-2.4.5-samba-printf.patch 498
@@ -17,3 +20,10 @@ MD5 fe28f64731a2dbf85f76b6f38942e032 files/example_disklist 55
 MD5 95a109a0edbf12da91dbabf7977a97f7 files/example_global.conf 1377
 MD5 1c3320d56e74e925e4b3e4a8936488cd files/patch-tar-1.14.90 984
 MD5 b0d485ea1a51fb83c70daedef2599272 metadata.xml 279
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.2 (GNU/Linux)
+
+iD8DBQFDtpJCAiZjviIA2XgRAuqSAJ97x3QVOj9J2eB0zsDfNmedi4mueQCgjRe1
+bffoHA/xMutbwnHY6U2K4nI=
+=Hjbi
+-----END PGP SIGNATURE-----
